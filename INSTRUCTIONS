@@ -1,1 +1,7 @@
+change the part of ENTER HERE to whatever you want spammed for example:
 
+1: webbrowser.open("https://google.com/search?q=ENTER HERE")
+
+2: webbrowser.open("https://google.com/search?q=Skibidi Toilet")
+
+Now, tabs of the search 'Skibidi Toilet' will come up instead of tabs showing ENTER HERE. You can change all the ENTER HERE parts to what you please.
